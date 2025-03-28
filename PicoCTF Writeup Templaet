@@ -1,0 +1,23 @@
+1️⃣ Challenge Name & Description
+Title: Clearly state the challenge name.
+Category: Crypto, Reverse Engineering, Forensics, etc.
+Difficulty Level: Easy, Medium, Hard (if known).
+Challenge Prompt: Include the problem statement or screenshot.
+
+2️⃣ Initial Analysis
+What files were provided?
+What did you first observe? (Source code, network logs, hidden messages, etc.)
+Any hints from the challenge description?
+
+3️⃣ Tools & Techniques Used
+Mention tools like strings, binwalk, Burp Suite, Ghidra, CyberChef, etc.
+If you used Python scripts or commands, list them.
+
+4️⃣ Step-by-Step Solution
+What commands or scripts did you run?
+How did you analyze the problem?
+Any obstacles you faced? How did you overcome them?
+
+5️⃣ Flag & Conclusion
+Final extracted flag: picoCTF{example_flag}
+What did you learn from the challenge?
